@@ -1,0 +1,28 @@
+C:\Repos\AltaBancaApi.Models\bin\Debug\net7.0\AltaBancaApi.Models.deps.json
+C:\Repos\AltaBancaApi.Models\bin\Debug\net7.0\AltaBancaApi.Models.dll
+C:\Repos\AltaBancaApi.Models\bin\Debug\net7.0\AltaBancaApi.Models.pdb
+C:\Repos\AltaBancaApi.Models\obj\Debug\net7.0\AltaBancaApi.Models.csproj.AssemblyReference.cache
+C:\Repos\AltaBancaApi.Models\obj\Debug\net7.0\AltaBancaApi.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\AltaBancaApi.Models\obj\Debug\net7.0\AltaBancaApi.Models.AssemblyInfoInputs.cache
+C:\Repos\AltaBancaApi.Models\obj\Debug\net7.0\AltaBancaApi.Models.AssemblyInfo.cs
+C:\Repos\AltaBancaApi.Models\obj\Debug\net7.0\AltaBancaApi.Models.csproj.CoreCompileInputs.cache
+C:\Repos\AltaBancaApi.Models\obj\Debug\net7.0\AltaBancaApi.Models.dll
+C:\Repos\AltaBancaApi.Models\obj\Debug\net7.0\refint\AltaBancaApi.Models.dll
+C:\Repos\AltaBancaApi.Models\obj\Debug\net7.0\AltaBancaApi.Models.pdb
+C:\Repos\AltaBancaApi.Models\obj\Debug\net7.0\ref\AltaBancaApi.Models.dll
+C:\Repos\AltaBancaApi.Models\bin\Debug\net7.0\AltaBancaApi.Models.runtimeconfig.json
+C:\Repos\AltaBancaApi.Models\obj\Debug\net7.0\AltaBancaApi.Models.genruntimeconfig.cache
+C:\Repos\Nueva carpeta\AltaBancaApi.Models\bin\Debug\net7.0\AltaBancaApi.Models.deps.json
+C:\Repos\Nueva carpeta\AltaBancaApi.Models\bin\Debug\net7.0\AltaBancaApi.Models.runtimeconfig.json
+C:\Repos\Nueva carpeta\AltaBancaApi.Models\bin\Debug\net7.0\AltaBancaApi.Models.dll
+C:\Repos\Nueva carpeta\AltaBancaApi.Models\bin\Debug\net7.0\AltaBancaApi.Models.pdb
+C:\Repos\Nueva carpeta\AltaBancaApi.Models\obj\Debug\net7.0\AltaBancaApi.Models.csproj.AssemblyReference.cache
+C:\Repos\Nueva carpeta\AltaBancaApi.Models\obj\Debug\net7.0\AltaBancaApi.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Nueva carpeta\AltaBancaApi.Models\obj\Debug\net7.0\AltaBancaApi.Models.AssemblyInfoInputs.cache
+C:\Repos\Nueva carpeta\AltaBancaApi.Models\obj\Debug\net7.0\AltaBancaApi.Models.AssemblyInfo.cs
+C:\Repos\Nueva carpeta\AltaBancaApi.Models\obj\Debug\net7.0\AltaBancaApi.Models.csproj.CoreCompileInputs.cache
+C:\Repos\Nueva carpeta\AltaBancaApi.Models\obj\Debug\net7.0\AltaBancaApi.Models.dll
+C:\Repos\Nueva carpeta\AltaBancaApi.Models\obj\Debug\net7.0\refint\AltaBancaApi.Models.dll
+C:\Repos\Nueva carpeta\AltaBancaApi.Models\obj\Debug\net7.0\AltaBancaApi.Models.pdb
+C:\Repos\Nueva carpeta\AltaBancaApi.Models\obj\Debug\net7.0\AltaBancaApi.Models.genruntimeconfig.cache
+C:\Repos\Nueva carpeta\AltaBancaApi.Models\obj\Debug\net7.0\ref\AltaBancaApi.Models.dll
